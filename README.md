@@ -30,10 +30,10 @@
 <p align="left">
   
   <a href="https://aosafe.com.br" alt="Site">
-  <img src="https://img.shields.io/static/v1?label=Blog&message=Infra%20Expert&color=232634&style=for-the-badge&logo=ghost&link=https://infra.expert/#/portal/signup"/></a>
+  <img src="https://img.shields.io/static/v1?label=Blog&message=Aosafe&color=232634&style=for-the-badge&logo=ghost&link=https://aosafe.com.br"/></a>
 
   <a href="https://www.instagram.com/wsouzaoficial/" alt="Instagram">
-  <img src="https://img.shields.io/badge/@infraantenada-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/infraantenada"/></a>
+  <img src="https://img.shields.io/badge/@wsouzaoficial-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/infraantenada"/></a>
 
 </p>  
 
