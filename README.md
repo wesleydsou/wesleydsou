@@ -2,10 +2,10 @@
 
 # 👋 Hello, I'm Wesley Souza
 
-💻 **Computer Science Graduate**  
-🖥 **Infrastructure Analyst | Network Administrator**  
-☁ **Cloud & DevOps Engineer**  
-🚀 Technology entrepreneur
+💻 Computer Science Graduate  
+🖥 Infrastructure Analyst | Network Administrator  
+☁ Cloud & DevOps Engineer  
+🚀 Technology Entrepreneur  
 
 I specialize in **infrastructure architecture, networking, virtualization and cloud automation**.
 
@@ -55,7 +55,7 @@ My main focus is designing **high availability environments, scalable infrastruc
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=wesleydsou&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=wesleydsou&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true"/>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleydsou&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -105,4 +105,4 @@ My main focus is designing **high availability environments, scalable infrastruc
 
 ---
 
-⭐ **From [wesleydsou](https://github.com/wesleydsou)**
+⭐ From [wesleydsou](https://github.com/wesleydsou)
