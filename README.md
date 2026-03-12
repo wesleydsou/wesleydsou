@@ -2,29 +2,28 @@
 
 # 👋 Hello, I'm Wesley Souza
 
-💻 Computer Science Graduate  
-🖥 Infrastructure Analyst | Network Administrator  
-☁ Cloud & DevOps Engineer  
-🚀 Technology Entrepreneur  
+💻 **Computer Science Graduate**  
+🖥 **Infrastructure Analyst | Network Administrator**  
+☁ **Cloud & DevOps Enthusiast**
 
 I specialize in **infrastructure architecture, networking, virtualization and cloud automation**.
 
-My main focus is designing **high availability environments, scalable infrastructure and secure networks**.
+My focus is building **scalable, secure and highly available environments**.
 
 ---
 
 # 🧠 Certifications
 
-🎓 Cisco **CCNA Routing & Switching**  
-🎓 VMware **VCTA-DCV**  
-🎓 VMware **VCP-DCV**  
-🎓 VMware **VCTA-NV**
+- Cisco **CCNA Routing & Switching**
+- VMware **VCTA-DCV**
+- VMware **VCP-DCV**
+- VMware **VCTA-NV**
 
 ---
 
 # 🚀 Tech Stack
 
-### 💻 Programming
+### Programming
 
 <p>
 <img src="https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=yellow"/>
@@ -36,7 +35,7 @@ My main focus is designing **high availability environments, scalable infrastruc
 
 ---
 
-### ⚙ Infrastructure / DevOps
+### Infrastructure / DevOps
 
 <p>
 <img src="https://img.shields.io/badge/vmware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
@@ -51,35 +50,13 @@ My main focus is designing **high availability environments, scalable infrastruc
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
-<p align="center">
+![](https://github-readme-stats.vercel.app/api?username=wesleydsou&theme=tokyonight&hide_border=true&include_all_commits=true)
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wesleydsou&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true"/>
+![](https://nirzak-streak-stats.vercel.app/?user=wesleydsou&theme=tokyonight&hide_border=true)
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wesleydsou&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=wesleydsou&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Activity Graph
-
-[![Wesley github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wesleydsou&theme=tokyo-night&hide_border=true)](https://github.com/wesleydsou)
-
----
-
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/wesleydsou/wesleydsou/blob/output/github-contribution-grid-snake.svg)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleydsou&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
 
@@ -105,4 +82,4 @@ My main focus is designing **high availability environments, scalable infrastruc
 
 ---
 
-⭐ From [wesleydsou](https://github.com/wesleydsou)
+⭐ From https://github.com/wesleydsou
