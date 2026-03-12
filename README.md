@@ -55,9 +55,9 @@ My main focus is designing **high availability environments, scalable infrastruc
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=wesleydsou&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wesleydsou&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleydsou&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wesleydsou&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
